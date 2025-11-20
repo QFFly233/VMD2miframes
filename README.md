@@ -1,5 +1,7 @@
 # VMD2Mi - VMD 动作转换工具
 
+感觉不太可用，会乱抽抽，动作好像也不太对
+
 这是一个用于将 MMD (MikuMikuDance) 的动作数据文件 (`.vmd`) 转换为 Mine-imator 可用的关键帧数据 (`.miframes`) 的 Python 工具。
 
 本项目包含两个主要脚本：
